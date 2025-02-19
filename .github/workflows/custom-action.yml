@@ -1,3 +1,5 @@
+name: My Yaml
+
 on: [push]
 
 jobs:
